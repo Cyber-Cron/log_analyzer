@@ -1,0 +1,4 @@
+2024-08-01 12:00:00 INFO User logged in from 192.168.1.1
+2024-08-01 12:05:00 INFO User logged out from 192.168.1.1
+2024-08-01 12:10:00 ERROR Failed login attempt from 192.168.1.2
+
