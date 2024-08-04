@@ -1,4 +1,78 @@
-2024-08-01 12:00:00 INFO User logged in from 192.168.1.1
-2024-08-01 12:05:00 INFO User logged out from 192.168.1.1
-2024-08-01 12:10:00 ERROR Failed login attempt from 192.168.1.2
+2024-08-01 08:00:00 INFO Server started successfully
+2024-08-01 08:05:00 INFO User admin logged in from 192.168.1.100
+2024-08-01 08:10:00 INFO User admin logged out from 192.168.1.100
+2024-08-01 08:15:00 INFO User john_doe logged in from 192.168.1.101
+2024-08-01 08:20:00 INFO User john_doe logged out from 192.168.1.101
+2024-08-01 08:25:00 INFO User jane_smith logged in from 192.168.1.102
+2024-08-01 08:30:00 INFO User jane_smith logged out from 192.168.1.102
+2024-08-01 08:35:00 ERROR Failed login attempt from 192.168.1.103
+2024-08-01 08:40:00 INFO Backup completed successfully
+2024-08-01 08:45:00 INFO User admin logged in from 192.168.1.100
+2024-08-01 08:50:00 INFO User admin logged out from 192.168.1.100
+2024-08-01 08:55:00 INFO User alice logged in from 192.168.1.104
+2024-08-01 09:00:00 INFO User alice logged out from 192.168.1.104
+2024-08-01 09:05:00 INFO User admin logged in from 192.168.1.100
+2024-08-01 09:10:00 INFO User admin logged out from 192.168.1.100
+2024-08-01 09:15:00 INFO User bob logged in from 192.168.1.105
+2024-08-01 09:20:00 INFO User bob logged out from 192.168.1.105
+2024-08-01 09:25:00 ERROR Network timeout from 192.168.1.106
+2024-08-01 09:30:00 INFO User admin logged in from 192.168.1.100
+2024-08-01 09:35:00 INFO User admin logged out from 192.168.1.100
+2024-08-01 09:40:00 INFO System update started
+2024-08-01 09:45:00 INFO System update completed successfully
+2024-08-01 09:50:00 INFO User charlie logged in from 192.168.1.107
+2024-08-01 09:55:00 INFO User charlie logged out from 192.168.1.107
+2024-08-01 10:00:00 INFO User admin logged in from 192.168.1.100
+2024-08-01 10:05:00 INFO User admin logged out from 192.168.1.100
+2024-08-01 10:10:00 ERROR Unauthorized access attempt from 192.168.1.108
+2024-08-01 10:15:00 INFO User diana logged in from 192.168.1.109
+2024-08-01 10:20:00 INFO User diana logged out from 192.168.1.109
+2024-08-01 10:25:00 INFO User admin logged in from 192.168.1.100
+2024-08-01 10:30:00 INFO User admin logged out from 192.168.1.100
+2024-08-01 10:35:00 INFO User eric logged in from 192.168.1.110
+2024-08-01 10:40:00 INFO User eric logged out from 192.168.1.110
+2024-08-01 10:45:00 WARNING Disk space running low on server
+2024-08-01 10:50:00 INFO User admin logged in from 192.168.1.100
+2024-08-01 10:55:00 INFO User admin logged out from 192.168.1.100
+2024-08-01 11:00:00 INFO User frank logged in from 192.168.1.111
+2024-08-01 11:05:00 INFO User frank logged out from 192.168.1.111
+2024-08-01 11:10:00 ERROR Failed login attempt from 192.168.1.112
+2024-08-01 11:15:00 INFO User admin logged in from 192.168.1.100
+2024-08-01 11:20:00 INFO User admin logged out from 192.168.1.100
+2024-08-01 11:25:00 INFO User grace logged in from 192.168.1.113
+2024-08-01 11:30:00 INFO User grace logged out from 192.168.1.113
+2024-08-01 11:35:00 WARNING High CPU usage detected
+2024-08-01 11:40:00 INFO User admin logged in from 192.168.1.100
+2024-08-01 11:45:00 INFO User admin logged out from 192.168.1.100
+2024-08-01 11:50:00 INFO User henry logged in from 192.168.1.114
+2024-08-01 11:55:00 INFO User henry logged out from 192.168.1.114
+2024-08-01 12:00:00 ERROR Service restart failure from 192.168.1.115
+2024-08-01 12:05:00 INFO User admin logged in from 192.168.1.100
+2024-08-01 12:10:00 INFO User admin logged out from 192.168.1.100
+2024-08-01 12:15:00 INFO User isabella logged in from 192.168.1.116
+2024-08-01 12:20:00 INFO User isabella logged out from 192.168.1.116
+2024-08-01 12:25:00 INFO User jack logged in from 192.168.1.117
+2024-08-01 12:30:00 INFO User jack logged out from 192.168.1.117
+2024-08-01 12:35:00 ERROR Application crash report from 192.168.1.118
+2024-08-01 12:40:00 INFO User admin logged in from 192.168.1.100
+2024-08-01 12:45:00 INFO User admin logged out from 192.168.1.100
+2024-08-01 12:50:00 INFO User kelly logged in from 192.168.1.119
+2024-08-01 12:55:00 INFO User kelly logged out from 192.168.1.119
+2024-08-01 13:00:00 INFO System maintenance completed
+2024-08-01 13:05:00 INFO User admin logged in from 192.168.1.100
+2024-08-01 13:10:00 INFO User admin logged out from 192.168.1.100
+2024-08-01 13:15:00 ERROR Network intrusion detected from 192.168.1.120
+2024-08-01 13:20:00 INFO User leo logged in from 192.168.1.121
+2024-08-01 13:25:00 INFO User leo logged out from 192.168.1.121
+2024-08-01 13:30:00 WARNING Low memory warning
+2024-08-01 13:35:00 INFO User admin logged in from 192.168.1.100
+2024-08-01 13:40:00 INFO User admin logged out from 192.168.1.100
+2024-08-01 13:45:00 INFO User mia logged in from 192.168.1.122
+2024-08-01 13:50:00 INFO User mia logged out from 192.168.1.122
+2024-08-01 13:55:00 ERROR Critical system error from 192.168.1.123
+2024-08-01 14:00:00 INFO System recovery completed successfully
+2024-08-01 14:05:00 INFO User nate logged in from 192.168.1.124
+2024-08-01 14:10:00 INFO User nate logged out from 192.168.1.124
+2024-08-01 14:15:00 WARNING Potential security breach detected
+2024-08-01 14:20:00 INFO User admin logged in from 192.
 
