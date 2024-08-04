@@ -10,6 +10,7 @@ A basic log analyzer that counts occurrences of IP addresses in a log file.
 ## Usage
 
 1. Replace `logfile.log` in `log_analyzer.py` with the path to your log file.
+	- You can use the provided `logfile.log` file for example purposes.
 2. Run the script:
 
 ```sh
